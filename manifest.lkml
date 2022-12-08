@@ -9,7 +9,7 @@ constant: CONNECTION_NAME {
 }
 
 constant: NLP_RESULTS_SCOPED_TABLE_PATH {
-  value: "lanka-hc.nlapi_test1.table1"
+  value: "lanka-hc.nlapi_test2.table2"
   export: override_optional
 }
 
