@@ -13,6 +13,11 @@ constant: NLP_RESULTS_SCOPED_TABLE_PATH {
   export: override_optional
 }
 
+constant: NLP_RESULTS_SCOPED_TABLE_PATH {
+  value: "lanka-hc.nlapi_test3.table3"
+  export:  override_optional
+}
+
 constant: ENCOUNTER_SCOPED_TABLE_PATH {
   value: ""
   export: override_optional
